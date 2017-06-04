@@ -6,7 +6,7 @@
 
 | File/ Folder name | Description |
 | :--- | :--- |
-| [2011 data files online](2011/ data/ files/ online) | Folder containing the 2011 NYC school survey data |
+| [2011 data files online](2011%20data%20files%20online) | Folder containing the 2011 NYC school survey data |
 | [schools](schools) | Folder containing data files on the AP exam results, SAT scores etc. of NYC schools |
 | [schools.ipynb](schools.ipynb) | Jupyter notebook with all the code and analysis |
 
